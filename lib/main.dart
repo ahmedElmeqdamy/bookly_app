@@ -8,7 +8,8 @@ import 'package:booly_new/feature/home/presentation/manager/newest_books_cubit/n
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:google_fonts/google_fonts.dart';
-//entry point
+
+// entry point
 void main() {
   setup();
   runApp(const booklyApp());
